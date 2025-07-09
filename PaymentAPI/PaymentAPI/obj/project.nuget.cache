@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nIXNg4WcY18=",
+  "dgSpecHash": "zTRmE2dVSk0=",
   "success": true,
-  "projectFilePath": "D:\\Angular\\Angular + ASP.NET Core Web API\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
+  "projectFilePath": "D:\\Angular\\Payment App(ASPNETWebApi + Angular)\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lynsie Marie\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Lynsie Marie\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

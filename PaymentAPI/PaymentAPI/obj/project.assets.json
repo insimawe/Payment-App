@@ -8038,11 +8038,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Angular\\Angular + ASP.NET Core Web API\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
+      "projectUniqueName": "D:\\Angular\\Payment App(ASPNETWebApi + Angular)\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
       "projectName": "PaymentAPI",
-      "projectPath": "D:\\Angular\\Angular + ASP.NET Core Web API\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
+      "projectPath": "D:\\Angular\\Payment App(ASPNETWebApi + Angular)\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
       "packagesPath": "C:\\Users\\Lynsie Marie\\.nuget\\packages\\",
-      "outputPath": "D:\\Angular\\Angular + ASP.NET Core Web API\\PaymentAPI\\PaymentAPI\\obj\\",
+      "outputPath": "D:\\Angular\\Payment App(ASPNETWebApi + Angular)\\PaymentAPI\\PaymentAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
