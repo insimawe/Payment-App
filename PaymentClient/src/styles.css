@@ -1,5 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
-.mouse-hover{
+
+
+.mouse-hover {
   cursor: pointer;
 }
 
@@ -18,5 +20,5 @@ form input::placeholder {
 }
 
 form.submitted input.ng-invalid{
-  border-color: red;
+  border-color: red !important;
 }
